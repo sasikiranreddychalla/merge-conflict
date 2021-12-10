@@ -7,7 +7,8 @@ Initial Function()
 
 feature1()
 {
-  //Sample Code for Feature 1
+  //Sample Code for Feature
+This is feature 1 module.
 }
 
 
